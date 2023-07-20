@@ -6,18 +6,18 @@ import React from 'react'
  const QuizProvider = ({children}) => {
     const Questions = [
         {
-            question:"Sual 1",
-            asnwers:["A","B","C","D","E"],
+            question:"Sual 1   (cavab C)",
+            answers:["A","B","C","D","E"],
             correctAnswer: "C"
         },
         {
-            question:"Sual 2",
-            asnwers:["A","B","C","D","E"],
+            question:"Sual 2   (cavab A)",
+            answers:["A","B","C","D","E"],
             correctAnswer: "A"
         },
         {
-            question:"Sual 3",
-            asnwers:["A","B","C","D","E"],
+            question:"Sual 3   (cavab E)",
+            answers:["A","B","C","D","E"],
             correctAnswer: "E"
         }
     ]

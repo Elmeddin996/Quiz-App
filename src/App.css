@@ -6,8 +6,11 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  width: 40%;
+  margin: 0 auto;
+  padding: 10px 0;
 }
 .answers button{
-  margin: 0 auto;
-  width: 30%;
+  margin: 5px auto;
+  width: 60%;
 }
